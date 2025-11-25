@@ -1,6 +1,6 @@
 # Hi, I'm Reshma 👋  
 
-🚀 **Frontend / Full Stack Developer** | 2.5 years of experience  
+🚀 **Frontend / Full Stack Developer** | 2.4 years of experience  
 📍 Based in Bengaluru, India  
 
 ## About Me  
