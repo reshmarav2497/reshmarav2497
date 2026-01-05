@@ -1,6 +1,6 @@
 # Hi, I'm Reshma 👋  
 
-🚀 **Frontend / Full Stack Developer** | 2.5 years of experience  
+🚀 **Full Stack Developer** | 2.5 years of experience  
 📍 Based in Bengaluru, India  
 
 ## About Me  
@@ -8,7 +8,6 @@
 - 🌟 Skilled in **React.js, Redux, JavaScript/TypeScript, Blazor WASM, and .NET Core**.  
 - 🔐 Experienced in building **secure, scalable, and high-performance** solutions.  
 - 🎯 Interested in **Frontend Engineering, Full Stack Development, and Cloud Platforms (Azure, GCP)**.  
-- 📚 Actively learning **system design & advanced React patterns**.  
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -20,6 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
