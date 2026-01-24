@@ -4,7 +4,7 @@
 📍 Based in Bengaluru, India  
 
 ## About Me  
-- 💻 Currently working at **Quilinx**, contributing to enterprise-scale applications for **Pine Labs** in the **FinTech domain**.  
+- 💻 Currently working at **QuilinX**, contributing to enterprise-scale applications for **Pine Labs** in the **FinTech domain**.  
 - 🌟 Skilled in **React.js, Redux, JavaScript/TypeScript, Blazor WASM, and .NET Core**.  
 - 🔐 Experienced in building **secure, scalable, and high-performance** solutions.  
 - 🎯 Interested in **Frontend Engineering, Full Stack Development, and Cloud Platforms (Azure, GCP)**.  
